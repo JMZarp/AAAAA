@@ -1,0 +1,25 @@
+.formulario{
+    width: 400px;
+    font-family: roboto;
+    margin: auto;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.formulario input[type="password"],
+.formulario input[type="email"]{
+    width: 100%;
+    padding: 15px;
+    border: 1px solid wheat;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+h2{
+    font-family: roboto;
+    margin: auto;
+    text-align: center;
+    color: midnightblue;
+    padding: 70px 0 10px 0;
+}

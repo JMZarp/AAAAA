@@ -1,0 +1,56 @@
+
+
+.inicio {
+    max-width: 666px;
+}
+
+.cont {
+    margin: 0 auto;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    width: 100%;
+}
+
+
+div{
+    display: block;
+}
+
+body {
+    
+    font: 400 1rem/1.5625rem sans-serif;
+    word-wrap: break-word;
+}
+
+.pagina_logo{
+ text-align: center;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.logo_img {
+    width: 100%;
+    height: auto;
+    max-width: 433px;
+    margin: 3rem 0;
+}
+
+
+
+.Button, a.Button, button, [type='button'], [type='reset'], [type='submit'] {
+    color: #fff;
+    background-color: #007AFF;
+}
+
+.pagina-enter-btn {
+    font-weight: bold;
+    font-size: 1.25rem;
+    display: inline-flex;
+    padding: 1rem 2.5rem;
+}
